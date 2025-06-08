@@ -1,0 +1,3 @@
+I'm Jiwan Chae from Kyungpook National University, Daegu, Republic of Korea.
+Since 2022, I have been involved in CMS research, working on dark matter searches using a spin-1 simplified model in the ttbar channel and searches and precision cross section measurements of leptonic WZG processes. I am currently preparing a Run 3 analysis in the SMP sector.
+
